@@ -1,0 +1,13 @@
+Kai Young
+SCIMA 300
+Assignment 1b
+September 20, 2015
+
+
+1. What is the data?
+
+2. What are the relationships between the variables?
+
+3. How is the data organized? / How could it be organized?
+
+4. What needs to be communicated? / what is the most interesting? 5) discuss 3 ways of visualizing your data, and what data from your collection you will use (communication over time, mood and platform, network) 6) if you used a pie, bar, or bubble, what data would you use for each kind of visualization?
