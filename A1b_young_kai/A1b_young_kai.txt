@@ -5,9 +5,43 @@ September 20, 2015
 
 
 1. What is the data?
+I'm not entirely sure what this question is asking.  One response would be to look at the data types of the collection. In this instance the data are strings, integers, images, boolean, floats, and colors. 
+
+Another way to think about the question is what attributes is the data collecting. In this instance the data portrays topic, type of exchange, date, time, address, sender/receiver, device, medium address, medium, type of relationship, thread, length of message, geo-coordinates, other activity, general mood, single or multi-task, eating/drinking, clothing, was there music, use of emoji and temperature.
 
 2. What are the relationships between the variables?
+One relationship is between location and device used. I tend to use my laptop at school and at home but I traveled to San Diego over the weekend and most of the communication was based on my phone. Another relationship is the medium used and the type of relationship I have with the other person. Email was all professional and texting was all familial. This is not surprising though.
+
+During the class discussion my group members seemed to think there was an interesting relationship between temperature and mood but looking at the numbers I don't really see it.
 
 3. How is the data organized? / How could it be organized?
+The data is currently organized chronologically. The first instance of communication is UID #1 and then it moves forward. There are a lot of different ways it could be organized. I have the coordinates for latitude and longitude so information could be ordered according to geospatial information.
 
-4. What needs to be communicated? / what is the most interesting? 5) discuss 3 ways of visualizing your data, and what data from your collection you will use (communication over time, mood and platform, network) 6) if you used a pie, bar, or bubble, what data would you use for each kind of visualization?
+I recorded the length of each message and this is another way it might be organized.
+
+A third way it might be organized is based on relationship. I suppose this would be like some sort of network?
+
+It could also be based device or medium.
+
+The data could also be structured based on time of day the messages were sent.
+
+Since I gave each index a number value for mood another way to organize the data would be along some sort of mood spectrum.
+
+4. What needs to be communicated? / what is the most interesting?
+The most interesting facets of the data to me are the big pockets where nothing was happening...but that seems to be the inverse of data? Like the spaces of my day where there was no communication. I know that I was on Facebook and Instagram much more than the data shows but since I was only tracking communication this 'active' time doesn't appear. 
+
+In terms of the actual data I find the location coordinates interesting. I also think the amount of times I communicated with certain individuals is interesting.
+
+The character variable is also of interest. I'm not exactly sure why though. I noticed that there is a huge range from 1 to over 11 thousand which was an email. 
+
+5. Discuss 3 ways of visualizing your data. What data from your collection you will use (communication over time, mood and platform, network)
+One way to visualize the data would be to use the latitude and longitude data and plot this on a map.
+
+Another method would be to use a timeline and plot the communications across the course of the day.
+
+A third would be a comparison of message length. This would probably be a bar chart.
+
+A network visualization would also be interesting. Looking at each person I communicated with, what type of relationship I have with them(friend, school, family) and how often I communicated with each.
+
+6. If you used a pie, bar, or bubble, what data would you use for each kind of visualization?
+A map would use geospatial/float data, a timeline would use time/integer data, the length visualization would use integer data and the network visualization would use strings and integers.
